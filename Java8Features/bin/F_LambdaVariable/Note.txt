@@ -1,0 +1,5 @@
+
+Effectively final:
+------------------
+Lambda function are allow to use local variable inside lambda body but it will not allow to modify local body variable.
+this concept is nothing but "Effectively final".
